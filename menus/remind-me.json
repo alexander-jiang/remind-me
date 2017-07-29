@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle remind-me",
+        "command": "remind-me:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "remind-me",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "remind-me:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
