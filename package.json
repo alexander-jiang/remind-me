@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "remind-me:toggle"
+    "atom-workspace": ["remind-me:toggle", "remind-me:start-timer"]
   },
   "repository": "https://github.com/atom/remind-me",
   "license": "MIT",
