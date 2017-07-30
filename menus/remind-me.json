@@ -17,6 +17,10 @@
             {
               "label": "Toggle",
               "command": "remind-me:toggle"
+            },
+            {
+              "label": "Start Timer",
+              "command": "remind-me:start-timer"
             }
           ]
         }

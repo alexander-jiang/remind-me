@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "remind-me:toggle"
+    "ctrl-alt-o": "remind-me:toggle",
+    "ctrl-alt-9": "remind-me:start-timer"
   }
 }
