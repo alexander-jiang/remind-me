@@ -2,7 +2,7 @@
   "name": "remind-me",
   "main": "./lib/remind-me",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A customizable timer that can integrate with your calendar to remind you for upcoming events.",
   "keywords": [
   ],
   "activationCommands": {
